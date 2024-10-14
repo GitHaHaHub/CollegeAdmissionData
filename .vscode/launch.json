@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BackendServerApplication<backend_server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "college_admission_data.backend_server.BackendServerApplication",
+            "projectName": "backend_server",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
